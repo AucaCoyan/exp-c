@@ -2,7 +2,7 @@
 
 # c-excercises
 
-A simple notepad mockup with Python
+Some excercies to broad my programming language understanding.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/AucaCoyan/c-excercises)
 ![Lines of code](https://img.shields.io/tokei/lines/github/AucaCoyan/c-excercises)
