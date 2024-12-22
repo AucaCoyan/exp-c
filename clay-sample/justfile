@@ -1,0 +1,9 @@
+default:
+	just --list
+
+compile:
+	zig cc main.c -o main.exe
+	echo 'running...'
+	./main.exe
+
+
