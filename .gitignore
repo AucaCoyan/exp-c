@@ -2,4 +2,7 @@
 *.exe
 *.pdb
 *.so
-
+*.obj
+*.dll
+*.lib
+*.o
